@@ -1,1 +1,0 @@
-system.exec_command("amixer set Master toggle", getOutput=False)
